@@ -45,3 +45,11 @@ button {
 button:hover {
     background: #0056b3;
 }
+body {
+    background-image: url('https://www.bing.com/ck/a?!&&p=7dafe8cc0aeda630JmltdHM9MTY5NzQxNDQwMCZpZ3VpZD0xMTlmZDA1OC0zZDlmLTZjZWMtMTBhMC1jMjAzM2MzMjZkODQmaW5zaWQ9NTU1NA&ptn=3&hsh=3&fclid=119fd058-3d9f-6cec-10a0-c2033c326d84&u=a1L2ltYWdlcy9zZWFyY2g_cT1DT0xMRUNUSU9OIE9GIFdBU1RFIE1BTkFHRU1FTlQgUElDVFVSRVMmRk9STT1JUUZSQkEmaWQ9MUFGQkQ0MUZDQUUxQkY1M0Y2MkRBRjE2MDY3MDEwREYzOUE0RkMxQg&ntb=1');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img {
+    opacity: 0.5;
+  }
